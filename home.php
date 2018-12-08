@@ -54,7 +54,7 @@
 <body style="background-color: whitesmoke;">
 
 	<section>
-		<nav class="navbar navbar-expand-sm">
+		<nav class="navbar navbar-expand-sm fixed-top">
 			<div class="container">
 				<a class="navbar-brand" href="#">
 					<h2 class="font-weight-bold text-light">JS</h2>
